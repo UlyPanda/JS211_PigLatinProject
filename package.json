@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/AustinCodingAcademy/JS211_PigLatinProject/issues"
   },
-  "homepage": "https://github.com/AustinCodingAcademy/JS211_PigLatinProject#readme",
+  "homepage": "https://github.com/UlyPanda/JS211_PigLatinProject.git",
   "dependencies": {
     "eslint": "^3.19.0",
     "functional-javascript-workshop": "^1.0.6",
