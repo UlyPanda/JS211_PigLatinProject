@@ -6,10 +6,13 @@
     <script src="main.js"></script>
   </head>
   <body>
-    <h1>Hello World!</h1>
+    <h1>Pig Latin Translator</h1>
     <hr/>
     <div id="display-element"></div>
-    <button onclick="displayDate()">Click Me</button>
+    <label for="inputWord">Input a phrase or word to translate</label>
+    <input type="text" id="inputWord" name="inputWord">
+    <button onclick="getPrompt()">Translate</button>
     <hr/>
+    <p id="outputWord" style="color: coral; font-size: 40px;"></p>
   </body>
 </html>
